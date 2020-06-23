@@ -1,4 +1,4 @@
-#p1{
+p{
 	box-sizing: border-box;
 	background-color: gray;
     position: relative;
@@ -6,25 +6,11 @@
     height: 150px;
     padding:10px;
     margin: 10px;
+    text-align: left;
+	 font-weight: initial;
 }
-#p2{
-	box-sizing: border-box;
-	background-color: gray;
-    position: relative;
-    width: 300px;
-    height: 150px;
-    padding:10px;
-    margin: 10px;
-}
-#p3{
-	box-sizing: border-box;
-	background-color: gray;
-    position: relative;
-    width: 300px;
-    height: 150px;
-    padding:10px;
-    margin: 10px;
-}
+
+
 h1{
 	font-size: 40px;
 	font-weight: bold;
@@ -32,8 +18,7 @@ h1{
 	text-align: center;
 }
 #same{
-	 text-align: left;
-	 font-weight: initial;
+	 
 }
 #box1{
 	position:absolute;
