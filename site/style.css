@@ -3,7 +3,7 @@
 	border:1px solid black;
 	background-color: gray;
     position: relative;
-    padding:auto;
+    padding:1px;
     margin-bottom: 10px;;
     width:33%;
     height:200px;
@@ -26,7 +26,7 @@ h1{
 #box1{
 	position:relative;
 	top:0px;
-	right:0px;
+	left:0px;
 	width:33%;
 	height:20%;
 	text-decoration-color: black;
@@ -37,7 +37,7 @@ h1{
 #box2{
 	position:relative;
 	top:0px;
-	right:0px;
+	left:0px;
 	width:33%;
 	height:20%;
 	color: white;
@@ -48,7 +48,7 @@ h1{
 #box3{
 	position:relative;
 	top:0px;
-	right:0px;
+	left:0px;
 	width:33%;
 	height:20%;
 	text-decoration-color: black;
