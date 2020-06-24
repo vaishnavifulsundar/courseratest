@@ -4,8 +4,6 @@
 	background-color: gray;
     position: relative;
     padding:auto;
-    margin-left: auto;
-    margin-right: auto;
     margin-bottom: 10px;;
     width:33%;
     height:200px;
@@ -27,8 +25,10 @@ h1{
 
 #box1{
 	position:relative;
-	top:30px;
-	right:50px;
+	top:0px;
+	right:0px;
+	width:33%;
+	height:20%;
 	text-decoration-color: black;
 	text-align: center;
 	background-color: #CD5C5C;
@@ -36,8 +36,10 @@ h1{
 }
 #box2{
 	position:relative;
-	top:30px;
-	right:50px;
+	top:0px;
+	right:0px;
+	width:33%;
+	height:20%;
 	color: white;
 	text-align: center;
 	background-color: maroon;
@@ -45,8 +47,10 @@ h1{
 }
 #box3{
 	position:relative;
-	top:30px;
-	right:50px;
+	top:0px;
+	right:0px;
+	width:33%;
+	height:20%;
 	text-decoration-color: black;
 	text-align: center;
 	background-color: #BDB76B;
