@@ -3,6 +3,7 @@
 
 }
 #same{
+	box-sizing: border-box;
 	border:1px solid black ;
 	border-radius: 5px;
 	background-color: gray;
