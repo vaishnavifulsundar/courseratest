@@ -4,10 +4,10 @@
 }
 #same{
 	border:2px solid black ;
-	border-radius: 3px;
+	border-radius: 5px;
 	background-color: gray;
     position: relative;
-    margin:auto;
+    margin:10px;
     margin-bottom: 10px;
     width:33%;
     height:200px;
@@ -35,7 +35,7 @@ h1{
 	text-align: center;
 	background-color: #CD5C5C;
 	border: 2px solid black;
-	border-radius: 2px;
+	border-radius: 5px;
 }
 #box2{
 	position:relative;
@@ -45,7 +45,7 @@ h1{
 	text-align: center;
 	background-color: maroon;
 	border: 2px solid black;
-	border-radius: 2px;
+	border-radius: 5px;
 }
 #box3{
 	position:relative;
@@ -55,7 +55,7 @@ h1{
 	text-align: center;
 	background-color: #BDB76B;
 	border: 2px solid black;
-	border-radius: 2px;
+	border-radius: 5px;
 }
 @media(min-device-width:992px)
 	{
