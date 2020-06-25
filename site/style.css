@@ -3,7 +3,8 @@
 
 }
 #same{
-	border:2px solid black;
+	border:2px solid black ;
+	border-radius: 3px;
 	background-color: gray;
     position: relative;
     margin:auto;
@@ -34,6 +35,7 @@ h1{
 	text-align: center;
 	background-color: #CD5C5C;
 	border: 2px solid black;
+	border-radius: 2px;
 }
 #box2{
 	position:relative;
@@ -43,6 +45,7 @@ h1{
 	text-align: center;
 	background-color: maroon;
 	border: 2px solid black;
+	border-radius: 2px;
 }
 #box3{
 	position:relative;
@@ -52,6 +55,7 @@ h1{
 	text-align: center;
 	background-color: #BDB76B;
 	border: 2px solid black;
+	border-radius: 2px;
 }
 @media(min-device-width:992px)
 	{
