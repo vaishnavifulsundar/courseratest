@@ -28,36 +28,33 @@ h1{
 	text-align: center;
 	font-family: Helvetica;
 }
-
+.p{
+	width:75px;
+	height:25px;
+	text-align: center;
+	border: 2px solid black;
+	border-radius: 5px;
+}
 #box1{
 	position:relative;
 	top:0px;
 	right:0px;
 	text-decoration-color: black;
-	text-align: center;
 	background-color: #CD5C5C;
-	border: 2px solid black;
-	border-radius: 5px;
 }
 #box2{
 	position:relative;
 	top:0px;
 	right:0px;
 	color: white;
-	text-align: center;
 	background-color: maroon;
-	border: 2px solid black;
-	border-radius: 5px;
 }
 #box3{
 	position:relative;
 	top:0px;
 	right:0px;
 	text-decoration-color: black;
-	text-align: center;
 	background-color: #BDB76B;
-	border: 2px solid black;
-	border-radius: 5px;
 }
 @media(min-device-width:992px)
 	{
