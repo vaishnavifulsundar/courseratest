@@ -35,7 +35,7 @@ padding:3px;
 	border: 1px solid black;
 	border-radius: 5px;
 	margin:none;
-	clear :left;
+	clear :right;
 }
 #box1{
 	position:absolute;
