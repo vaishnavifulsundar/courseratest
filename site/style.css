@@ -33,6 +33,7 @@ h1{
 text-align: center;
 	border: 1px solid black;
 	border-radius: 5px;
+	margin:none;
 }
 #box1{
 	position:absolute;
