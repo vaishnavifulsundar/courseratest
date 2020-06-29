@@ -44,6 +44,9 @@ text-align: center;
 #navbar-toggle{
 	color:black;
 }
+.btn{
+	color:black;
+}
 #titles{
 	height: 100px;
 	width:100%;
