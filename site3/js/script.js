@@ -130,7 +130,7 @@ var val=function buildAndShowHomeHTML (categories) {
       // Use the existing insertHtml function for that purpose. Look through this code for an example
       // of how to do that.
       // ....
-      insertHtml("$dc.loadMenuCategories()", homeHtmlToInsertIntoMainPage);
+      insertHtml("#you", homeHtmlToInsertIntoMainPage);
 
     },
     false); // False here because we are getting just regular HTML from the server, so no need to process JSON.
